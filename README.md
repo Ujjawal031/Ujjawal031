@@ -17,9 +17,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ujjawal_jaiswal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ujjawal_jaiswal" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ujjawal-jaiswal-b554232b5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ujjawal-jaiswal-b554232b5" height="30" width="40" /></a>
 <a href="https://instagram.com/ujjwal_jaiswal02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ujjwal_jaiswal02" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ujjawal-jaiswal-b554232b5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ujjawal-jaiswal-b554232b5" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/ujjawal_jaiswal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ujjawal_jaiswal" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
